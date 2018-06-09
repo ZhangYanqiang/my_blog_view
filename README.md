@@ -1,4 +1,4 @@
-此项目为基于laravel框架的个人博客项目后台
+此项目为基于laravel框架的个人博客项目前端
 
 技术栈：laravel+dingo/api
 
