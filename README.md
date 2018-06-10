@@ -2,7 +2,7 @@
 
 技术栈：vue.js+axios+elementUI+vue-router
 
-前端部分见：
+后端部分见：
 
 技术栈：laravel+dingo/api
 
